@@ -1,0 +1,2 @@
+terminals: ['touch one.txt two.txt three.txt four.txt five.txt']
+tabs: ['one.txt', 'two.txt', 'three.txt', 'four.txt', 'five.txt']
